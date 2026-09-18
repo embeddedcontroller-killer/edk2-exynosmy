@@ -1,8 +1,0 @@
-/home/ekutech/edk2-exynos/Platform/Samsung/exynos7580/PlatformPei/PlatformPei.c
-/home/ekutech/edk2-exynos/Silicon/Samsung/Exynos7580Pkg/Library/Exynos7580SerialPortLib/Exynos7580SerialPortLib.inf
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Library/BaseLib/BaseLib.inf
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull.inf
-/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/Platform/Samsung/exynos7580/PlatformPei/PlatformPei/DEBUG/AutoGen.h
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Library/BasePcdLibNull/BasePcdLibNull.inf
-/home/ekutech/edk2-exynos/Platform/Samsung/exynos7580/PlatformPei/PlatformPei.inf
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Library/BaseMemoryLib/BaseMemoryLib.inf

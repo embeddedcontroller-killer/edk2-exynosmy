@@ -1,3 +1,0 @@
-gCommandLineDefines: {'ARCH': 'AARCH64'}
-BuildOptionPcd: []
-Active Platform: /home/ekutech/edk2-exynos/Platform/Samsung/exynos7580/exynos7580.dsc

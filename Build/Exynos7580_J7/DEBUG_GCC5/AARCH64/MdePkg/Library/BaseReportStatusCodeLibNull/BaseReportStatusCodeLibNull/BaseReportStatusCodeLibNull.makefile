@@ -1,1 +1,0 @@
-/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/GNUmakefile

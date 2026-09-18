@@ -1,6 +1,0 @@
-/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/Silicon/Samsung/Exynos7580Pkg/Library/Exynos7580SerialPortLib/Exynos7580SerialPortLib/DEBUG/AutoGen.h
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Include/AArch64/ProcessorBind.h
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Include/Base.h
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Include/Library/BaseMemoryLib.h
-/home/ekutech/edk2-exynos/Silicon/Samsung/Exynos7580Pkg/Include/Platform/Exynos7580.h
-/home/ekutech/edk2-exynos/Silicon/Samsung/Exynos7580Pkg/Library/Exynos7580SerialPortLib/Exynos7580SerialPortLib.c

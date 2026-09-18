@@ -1,9 +1,0 @@
-/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/TOOLS_DEF.AARCH64
-/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/BuildOptions
-/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/PcdTokenNumber
-/home/ekutech/edk2-exynos/Common/edk2/MdeModulePkg/MdeModulePkg.dec
-/home/ekutech/edk2-exynos/Common/edk2/MdePkg/MdePkg.dec
-/home/ekutech/edk2-exynos/Conf/build_rule.txt
-/home/ekutech/edk2-exynos/Conf/tools_def.txt
-/home/ekutech/edk2-exynos/Platform/Samsung/exynos7580/exynos7580.dsc
-/home/ekutech/edk2-exynos/Silicon/Samsung/Exynos7580Pkg/Exynos7580Pkg.dec
