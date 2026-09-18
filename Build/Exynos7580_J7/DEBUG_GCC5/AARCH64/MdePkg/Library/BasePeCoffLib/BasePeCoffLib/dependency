@@ -1,0 +1,7 @@
+
+
+-include /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/PeCoffLoaderEx.obj.deps
+
+-include /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoff.obj.deps
+
+               

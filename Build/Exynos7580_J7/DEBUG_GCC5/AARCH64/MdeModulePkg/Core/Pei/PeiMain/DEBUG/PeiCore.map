@@ -1,0 +1,1182 @@
+Arşiv üyesi dosya yüzünden (sembol) dahil edildi
+
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiCoreEntryPoint/PeiCoreEntryPoint/OUTPUT/PeiCoreEntryPoint.lib(PeiCoreEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(AutoGen.obj)
+                              PeiCoreEntryPoint.obj (symbol from plugin) (ProcessModuleEntryPointList)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(PeiMain.obj)
+                              AutoGen.obj (symbol from plugin) (PeiCore)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(MemoryServices.obj)
+                              PeiMain.obj (symbol from plugin) (InitializeMemoryServices)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Image.obj)
+                              PeiMain.obj (symbol from plugin) (PeiLoadImage)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Hob.obj)
+                              PeiMain.obj (symbol from plugin) (PeiGetHobList)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(FwVol.obj)
+                              PeiMain.obj (symbol from plugin) (PeiFfsFindSectionData)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Dispatcher.obj)
+                              PeiMain.obj (symbol from plugin) (EvacuateTempRam)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Dependency.obj)
+                              FwVol.obj (symbol from plugin) (PeimDispatchReadiness)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(BootMode.obj)
+                              PeiMain.obj (symbol from plugin) (PeiGetBootMode)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(CpuIo.obj)
+                              PeiMain.obj (symbol from plugin) (gPeiDefaultCpuIoPpi)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(PciCfg2.obj)
+                              PeiMain.obj (symbol from plugin) (gPeiDefaultPciCfg2Ppi)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(StatusCode.obj)
+                              PeiMain.obj (symbol from plugin) (PeiReportStatusCode)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Security.obj)
+                              PeiMain.obj (symbol from plugin) (InitializeSecurityServices)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Reset.obj)
+                              PeiMain.obj (symbol from plugin) (PeiResetSystem2)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Ppi.obj)
+                              PeiMain.obj (symbol from plugin) (ConvertPpiPointers)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib/OUTPUT/PeiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              Dispatcher.obj (symbol from plugin) (AllocatePages)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (DebugPrint)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              FwVol.obj (symbol from plugin) (CalculateSum8)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              Dispatcher.obj (symbol from plugin) (SwitchStack)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              Dispatcher.obj (symbol from plugin) (RShiftU64)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              MemoryServices.obj (symbol from plugin) (LShiftU64)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              PeiCoreEntryPoint.obj (symbol from plugin) (CpuDeadLoop)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(InternalSwitchStack.obj)
+                              SwitchStack.obj (symbol from plugin) (InternalSwitchStack)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              FwVol.obj (symbol from plugin) (ReadUnaligned16)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              LShiftU64.obj (symbol from plugin) (InternalMathLShiftU64)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              InternalSwitchStack.obj (symbol from plugin) (InternalSwitchStackAsm)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              Math64.obj (symbol from plugin) (SwapBytes32)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SwapBytes32.obj (symbol from plugin) (SwapBytes16)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiHobLib/PeiHobLib/OUTPUT/PeiHobLib.lib(HobLib.obj)
+                              MemoryServices.obj (symbol from plugin) (GetHobList)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiServicesLib/PeiServicesLib/OUTPUT/PeiServicesLib.lib(PeiServicesLib.obj)
+                              PeiMain.obj (symbol from plugin) (PeiServicesInstallPpi)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              PeiMain.obj (symbol from plugin) (ZeroMem)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              PeiMain.obj (symbol from plugin) (SetMem)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              PeiMain.obj (symbol from plugin) (CopyMem)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              FwVol.obj (symbol from plugin) (CopyGuid)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              CopyMemWrapper.obj (symbol from plugin) (InternalMemCopyMem)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              SetMemWrapper.obj (symbol from plugin) (InternalMemSetMem)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiServicesTablePointerLib/PeiServicesTablePointerLib/OUTPUT/PeiServicesTablePointerLib.lib(PeiServicesTablePointer.obj)
+                              PeiMain.obj (symbol from plugin) (SetPeiServicesTablePointer)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib(PeCoffGetEntryPoint.obj)
+                              Ppi.obj (symbol from plugin) (PeCoffLoaderGetEntryPoint)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
+                              PeiMain.obj (symbol from plugin) (ReportStatusCode)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib(PerformanceLib.obj)
+                              PeiMain.obj (symbol from plugin) (LogPerformanceMeasurement)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseCacheMaintenanceLib/BaseCacheMaintenanceLib/OUTPUT/BaseCacheMaintenanceLib.lib(ArmCache.obj)
+                              Image.obj (symbol from plugin) (InvalidateInstructionCacheRange)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib(BasePeCoff.obj)
+                              Image.obj (symbol from plugin) (PeCoffLoaderGetImageInfo)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib(PeCoffLoaderEx.obj)
+                              BasePeCoff.obj (symbol from plugin) (PeCoffLoaderRelocateImageEx)
+/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib(PeCoffExtraActionLib.obj)
+                              BasePeCoff.obj (symbol from plugin) (PeCoffLoaderRelocateImageExtraAction)
+
+Merging object attributes
+
+
+Merging program properties
+
+
+Girdi bölümleri çıkarıldı
+
+ .text          0x0000000000000000       0x10 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiLoadFixAddressIsMemoryRangeAvailable
+                0x0000000000000000       0x6c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ConvertPpiPointersFv
+                0x0000000000000000      0x208 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.DumpPpiList
+                0x0000000000000000        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ConvertFvHob.isra.0
+                0x0000000000000000       0x78 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ConvertStatusCodeCallbacks
+                0x0000000000000000       0x98 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.BuildResourceDescriptorHob.constprop.0
+                0x0000000000000000       0x5c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiGetPe32Data
+                0x0000000000000000       0x50 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeCoffLoaderGetPdbPointer
+                0x0000000000000000      0x178 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.LogPerformanceMeasurementEnabled
+                0x0000000000000000        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.MigratePeimsInFv.part.0
+                0x0000000000000000      0x13c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gStatusCodeCallbackGuid
+                0x0000000000000000       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .bss._gPcd_BinaryPatch_PcdLoadFixAddressRuntimeCodePageNumber
+                0x0000000000000000        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .bss._gPcd_BinaryPatch_PcdLoadFixAddressBootTimeCodePageNumber
+                0x0000000000000000        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .bss._gPcd_BinaryPatch_PcdLoadFixAddressPeiCodePageNumber
+                0x0000000000000000        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x1f /tmp/ccOED8gC.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x1f /tmp/ccQBO5zv.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQBO5zv.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccBjUgI6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccBjUgI6.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccIufwjF.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccIufwjF.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccdZaKSi.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccdZaKSi.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cc2goEk9.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc2goEk9.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccg4BAIj.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccg4BAIj.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccc54Neh.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccc54Neh.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccZseJ78.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZseJ78.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccb8Lv5g.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccb8Lv5g.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccmPYPmx.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccmPYPmx.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccKjRkss.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccKjRkss.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccCItqUc.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccCItqUc.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccHIbDJf.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHIbDJf.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccZH6pbE.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZH6pbE.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccB9dXEd.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccB9dXEd.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccyOl2Dr.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccyOl2Dr.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccQiGfA5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQiGfA5.debug.temp.o
+ .debug_info    0x0000000000000000      0x20e /tmp/ccdAWVo5.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xe7 /tmp/ccdAWVo5.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/ccdAWVo5.debug.temp.o
+ .debug_str     0x0000000000000000      0x31f /tmp/ccdAWVo5.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1a8 /tmp/ccdAWVo5.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccdAWVo5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccdAWVo5.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cc6NTIg0.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6NTIg0.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccfiiqkw.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccfiiqkw.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cc5yCQ4L.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc5yCQ4L.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cchC9saZ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cchC9saZ.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccycouaE.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccycouaE.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccY0LyP9.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccY0LyP9.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cc8LxLKE.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8LxLKE.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccKPIrWU.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccKPIrWU.debug.temp.o
+ .debug_info    0x0000000000000000       0xc2 /tmp/cctJsw7X.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x8e /tmp/cctJsw7X.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/cctJsw7X.debug.temp.o
+ .debug_str     0x0000000000000000      0x1fc /tmp/cctJsw7X.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x18a /tmp/cctJsw7X.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cctJsw7X.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cctJsw7X.debug.temp.o
+ .debug_info    0x0000000000000000       0x8f /tmp/cczW6t2l.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x5d /tmp/cczW6t2l.debug.temp.o
+ .debug_line    0x0000000000000000       0x43 /tmp/cczW6t2l.debug.temp.o
+ .debug_str     0x0000000000000000      0x1d2 /tmp/cczW6t2l.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x143 /tmp/cczW6t2l.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cczW6t2l.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cczW6t2l.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccNkBRVm.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccNkBRVm.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccQZy1o7.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQZy1o7.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccHOfYgQ.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHOfYgQ.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccFMdxIV.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccFMdxIV.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccWSiJHt.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWSiJHt.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccUPH2Gs.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccUPH2Gs.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccK0Su3g.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccK0Su3g.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccklpQA3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccklpQA3.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccNQ6n1w.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccNQ6n1w.debug.temp.o
+ .debug_info    0x0000000000000000      0x119 /tmp/cc8aG1Gx.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xbe /tmp/cc8aG1Gx.debug.temp.o
+ .debug_line    0x0000000000000000       0x51 /tmp/cc8aG1Gx.debug.temp.o
+ .debug_str     0x0000000000000000      0x224 /tmp/cc8aG1Gx.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1bd /tmp/cc8aG1Gx.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cc8aG1Gx.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8aG1Gx.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccq8l8sH.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccq8l8sH.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccglOwpE.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccglOwpE.debug.temp.o
+ .debug_info    0x0000000000000000      0x42c /tmp/ccWJBgb5.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x139 /tmp/ccWJBgb5.debug.temp.o
+ .debug_line    0x0000000000000000       0x70 /tmp/ccWJBgb5.debug.temp.o
+ .debug_str     0x0000000000000000      0x471 /tmp/ccWJBgb5.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x30a /tmp/ccWJBgb5.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccWJBgb5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccWJBgb5.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccIYZKxB.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccIYZKxB.debug.temp.o
+ .debug_info    0x0000000000000000      0x177 /tmp/ccEBfTBz.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xbe /tmp/ccEBfTBz.debug.temp.o
+ .debug_line    0x0000000000000000       0x4c /tmp/ccEBfTBz.debug.temp.o
+ .debug_str     0x0000000000000000      0x2d4 /tmp/ccEBfTBz.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x1c5 /tmp/ccEBfTBz.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccEBfTBz.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccEBfTBz.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccJpRbNG.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJpRbNG.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/ccEHX1K2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccEHX1K2.debug.temp.o
+ .debug_info    0x0000000000000000      0x291 /tmp/cchSV7L1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xf4 /tmp/cchSV7L1.debug.temp.o
+ .debug_line    0x0000000000000000       0x5a /tmp/cchSV7L1.debug.temp.o
+ .debug_str     0x0000000000000000      0x3e1 /tmp/cchSV7L1.debug.temp.o
+ .debug_line_str
+                0x0000000000000000      0x239 /tmp/cchSV7L1.debug.temp.o
+ .comment       0x0000000000000000       0x1f /tmp/cchSV7L1.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cchSV7L1.debug.temp.o
+ .note.gnu.property
+                0x0000000000000000        0x0 /tmp/cchSV7L1.debug.temp.o
+ .data          0x0000000000000000        0x0 /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .bss           0x0000000000000000        0x0 /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+
+Bellek Ayarları
+
+İsim            Orijin             Uzunluk            Özellikler
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Bağlayıcı betiği ve bellek eşlemesi
+
+LOAD /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+START GROUP
+LOAD /tmp/ccOED8gC.ltrans0.ltrans.o
+LOAD /tmp/ccQBO5zv.debug.temp.o
+LOAD /tmp/ccBjUgI6.debug.temp.o
+LOAD /tmp/ccIufwjF.debug.temp.o
+LOAD /tmp/ccdZaKSi.debug.temp.o
+LOAD /tmp/cc2goEk9.debug.temp.o
+LOAD /tmp/ccg4BAIj.debug.temp.o
+LOAD /tmp/ccc54Neh.debug.temp.o
+LOAD /tmp/ccZseJ78.debug.temp.o
+LOAD /tmp/ccb8Lv5g.debug.temp.o
+LOAD /tmp/ccmPYPmx.debug.temp.o
+LOAD /tmp/ccKjRkss.debug.temp.o
+LOAD /tmp/ccCItqUc.debug.temp.o
+LOAD /tmp/ccHIbDJf.debug.temp.o
+LOAD /tmp/ccZH6pbE.debug.temp.o
+LOAD /tmp/ccB9dXEd.debug.temp.o
+LOAD /tmp/ccyOl2Dr.debug.temp.o
+LOAD /tmp/ccQiGfA5.debug.temp.o
+LOAD /tmp/ccdAWVo5.debug.temp.o
+LOAD /tmp/cc6NTIg0.debug.temp.o
+LOAD /tmp/ccfiiqkw.debug.temp.o
+LOAD /tmp/cc5yCQ4L.debug.temp.o
+LOAD /tmp/cchC9saZ.debug.temp.o
+LOAD /tmp/ccycouaE.debug.temp.o
+LOAD /tmp/ccY0LyP9.debug.temp.o
+LOAD /tmp/cc8LxLKE.debug.temp.o
+LOAD /tmp/ccKPIrWU.debug.temp.o
+LOAD /tmp/cctJsw7X.debug.temp.o
+LOAD /tmp/cczW6t2l.debug.temp.o
+LOAD /tmp/ccNkBRVm.debug.temp.o
+LOAD /tmp/ccQZy1o7.debug.temp.o
+LOAD /tmp/ccHOfYgQ.debug.temp.o
+LOAD /tmp/ccFMdxIV.debug.temp.o
+LOAD /tmp/ccWSiJHt.debug.temp.o
+LOAD /tmp/ccUPH2Gs.debug.temp.o
+LOAD /tmp/ccK0Su3g.debug.temp.o
+LOAD /tmp/ccklpQA3.debug.temp.o
+LOAD /tmp/ccNQ6n1w.debug.temp.o
+LOAD /tmp/cc8aG1Gx.debug.temp.o
+LOAD /tmp/ccq8l8sH.debug.temp.o
+LOAD /tmp/ccglOwpE.debug.temp.o
+LOAD /tmp/ccWJBgb5.debug.temp.o
+LOAD /tmp/ccIYZKxB.debug.temp.o
+LOAD /tmp/ccEBfTBz.debug.temp.o
+LOAD /tmp/ccJpRbNG.debug.temp.o
+LOAD /tmp/ccEHX1K2.debug.temp.o
+LOAD /tmp/cchSV7L1.debug.temp.o
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib/OUTPUT/PeiMemoryAllocationLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiHobLib/PeiHobLib/OUTPUT/PeiHobLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiServicesLib/PeiServicesLib/OUTPUT/PeiServicesLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiServicesTablePointerLib/PeiServicesTablePointerLib/OUTPUT/PeiServicesTablePointerLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/PeiCoreEntryPoint/PeiCoreEntryPoint/OUTPUT/PeiCoreEntryPoint.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseCacheMaintenanceLib/BaseCacheMaintenanceLib/OUTPUT/BaseCacheMaintenanceLib.lib
+LOAD /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.gnu.version_d  0x0000000000000228        0x0
+ .gnu.version_d
+                0x0000000000000228        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version    0x0000000000000228        0x0
+ .gnu.version   0x0000000000000228        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version_r  0x0000000000000228        0x0
+ .gnu.version_r
+                0x0000000000000228        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.text           0x0000000000000240     0x5760
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.PeiInstallPeiMemory
+                0x0000000000000240       0x28 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiGetHobList
+                0x0000000000000268       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiCreateHob
+                0x0000000000000278       0xa0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFindNextVolume
+                0x0000000000000318       0x48 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiProcessVolume
+                0x0000000000000360       0x1c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiGetBootMode
+                0x000000000000037c       0x24 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiSetBootMode
+                0x00000000000003a0       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead
+                0x00000000000003b0        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite
+                0x00000000000003bc        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead
+                0x00000000000003c8        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite
+                0x00000000000003d4        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead8
+                0x00000000000003e0        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead16
+                0x00000000000003e8        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead32
+                0x00000000000003f0        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead64
+                0x00000000000003f8        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite8
+                0x0000000000000400        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite16
+                0x0000000000000404        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite32
+                0x0000000000000408        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite64
+                0x000000000000040c        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead8
+                0x0000000000000410        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead16
+                0x0000000000000418        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead32
+                0x0000000000000420        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead64
+                0x0000000000000428        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite8
+                0x0000000000000430        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite16
+                0x0000000000000434        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite32
+                0x0000000000000438        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite64
+                0x000000000000043c        0x4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultPciCfg2Read
+                0x0000000000000440        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultPciCfg2Write
+                0x000000000000044c        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiDefaultPciCfg2Modify
+                0x0000000000000458        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.SecurityPpiNotifyCallback
+                0x0000000000000464       0x18 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.VerifyPeim
+                0x000000000000047c       0x68 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ConvertPointer
+                0x00000000000004e4       0x30 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ConvertPointerInRanges
+                0x0000000000000514       0x90 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ConvertSinglePpiPointer
+                0x00000000000005a4       0x44 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiLocatePpi
+                0x00000000000005e8       0x94 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.CalculateSum8
+                0x000000000000067c       0x28 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ReadUnaligned16
+                0x00000000000006a4       0x30 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ReadUnaligned32
+                0x00000000000006d4       0x28 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.WriteUnaligned32.isra.0
+                0x00000000000006fc       0x20 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x000000000000071c       0x28 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.WriteUnaligned64.isra.0
+                0x0000000000000744       0x20 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.GetNextHob
+                0x0000000000000764       0x34 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.InternalCheckFvAlignment
+                0x0000000000000798       0x3c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.CopyMem  0x00000000000007d4      0x1e8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.MigrateMemoryPages
+                0x00000000000009bc       0x9c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiImageRead
+                0x0000000000000a58       0x34 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.CopyGuid.isra.0
+                0x0000000000000a8c       0x3c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.CompareGuid
+                0x0000000000000ac8       0x4c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.GetNextGuidHob
+                0x0000000000000b14       0x44 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.InternalMemSetMem
+                0x0000000000000b58       0xb4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ZeroMem  0x0000000000000c0c       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiGetVolumeInfo
+                0x0000000000000c1c       0xa4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.SetMem   0x0000000000000cc0        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.GetPeiServicesTablePointer
+                0x0000000000000ccc        0xc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiAllocatePool
+                0x0000000000000cd8       0x68 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.FileHandleToVolume
+                0x0000000000000d40       0x9c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFindSectionData
+                0x0000000000000ddc       0x54 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFindSectionData3
+                0x0000000000000e30       0x90 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsGetFileInfo
+                0x0000000000000ec0       0x60 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsGetFileInfo2
+                0x0000000000000f20       0x8c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiGetFileInfo
+                0x0000000000000fac      0x154 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiGetFileInfo2
+                0x0000000000001100       0x6c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.FvHandleToCoreHandle
+                0x000000000000116c       0x50 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFindNextFile
+                0x00000000000011bc       0x54 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFindFileByName
+                0x0000000000001210       0x68 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsGetVolumeInfo
+                0x0000000000001278       0x60 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiRegisterForShadow
+                0x00000000000012d8       0x64 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ProcessNotify
+                0x000000000000133c       0xec /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiReInstallPpi
+                0x0000000000001428       0x84 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ProcessDispatchNotifyList
+                0x00000000000014ac       0x88 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.AllocatePool
+                0x0000000000001534       0x34 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x0000000000001568       0x28 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.InternalPeiInstallPpi
+                0x0000000000001590       0xf0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiInstallPpi
+                0x0000000000001680        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.InternalPeiNotifyPpi
+                0x0000000000001688      0x16c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiNotifyPpi
+                0x00000000000017f4        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.AllocateCopyPool.constprop.0
+                0x00000000000017fc       0x30 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.GetHobList
+                0x000000000000182c       0x28 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.GetFirstHob
+                0x0000000000001854       0x28 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.InternalPeiCreateHob
+                0x000000000000187c       0x3c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.InternalBuildMemoryAllocationHob
+                0x00000000000018b8       0xac /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.UpdateOrSplitMemoryAllocationHob
+                0x0000000000001964       0x70 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFreePages
+                0x00000000000019d4      0x164 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiAllocatePages
+                0x0000000000001b38      0x27c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiServicesInstallPpi
+                0x0000000000001db4       0x24 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.InternalPeiServicesInstallFvInfoPpi
+                0x0000000000001dd8       0xc0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiServicesReInstallPpi
+                0x0000000000001e98       0x2c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiServicesLocatePpi
+                0x0000000000001ec4       0x34 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ProcessSection.constprop.0
+                0x0000000000001ef8      0x414 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindSectionByType2
+                0x000000000000230c       0xf0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindSectionByType
+                0x00000000000023fc       0x24 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.IsPpiInstalled.isra.0
+                0x0000000000002420       0x48 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeimDispatchReadiness.isra.0
+                0x0000000000002468      0x144 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiReportStatusCode
+                0x00000000000025ac       0x7c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiResetSystem2
+                0x0000000000002628       0x68 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiResetSystem
+                0x0000000000002690       0x68 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiServicesNotifyPpi
+                0x00000000000026f8       0x24 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiServicesFfsFindSectionData3.constprop.0
+                0x000000000000271c       0x38 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiServicesAllocatePages
+                0x0000000000002754       0x30 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ProcessFvFile
+                0x0000000000002784      0x418 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.FirmwareVolumeInfoPpiNotifyCallback
+                0x0000000000002b9c      0x2a4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.ThirdPartyFvPpiNotifyCallback
+                0x0000000000002e40      0x208 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeCoffLoaderGetMachineType
+                0x0000000000003048       0x50 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiLoadImage.isra.0
+                0x0000000000003098      0x108 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeCoffLoaderGetImageInfo
+                0x00000000000031a0      0x7fc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeCoffLoaderImageAddress
+                0x000000000000399c       0x30 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeCoffLoaderRelocateImage
+                0x00000000000039cc      0x280 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeCoffLoaderLoadImage
+                0x0000000000003c4c      0x528 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiLoadImageLoadImage.isra.0
+                0x0000000000004174      0x228 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiLoadImageLoadImageWrapper
+                0x000000000000439c       0x18 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.FindFileEx.constprop.0
+                0x00000000000043b4      0x338 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindFileByType
+                0x00000000000046ec       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindFileByName
+                0x00000000000046fc       0xf4 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.SwitchStack.constprop.0
+                0x00000000000047f0       0x2c /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.CpuDeadLoop
+                0x000000000000481c       0x24 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiCore  0x0000000000004840      0xddc /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x000000000000561c       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+                0x000000000000561c                _ModuleEntryPoint
+ .text.PeiCoreEntry
+                0x000000000000562c       0x14 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .text.PeiCheckAndSwitchStack
+                0x0000000000005640      0x2ec /tmp/ccOED8gC.ltrans0.ltrans.o
+ *fill*         0x000000000000592c       0x14 
+ .text          0x0000000000005940       0x30 /home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                0x0000000000005940                InternalSwitchStackAsm
+                0x0000000000005958                CpuPause
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.mFvAttributes
+                0x0000000000005970        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .rodata.mFvAttributes2
+                0x0000000000005978        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000005980        0x8 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+                0x0000000000005980                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x0000000000005988       0x18 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x00000000000059a0        0x0
+ .plt           0x00000000000059a0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.data           0x00000000000059a0      0x440
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.ro   0x00000000000059a0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data.gEfiPeiSecurity2PpiGuid
+                0x00000000000059a0       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mPeiLoadImagePpi
+                0x00000000000059b0        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiMemoryDiscoveredPpiGuid
+                0x00000000000059b8       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gPeiDefaultPciCfg2Ppi
+                0x00000000000059c8       0x20 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gPeiDefaultCpuIoPpi
+                0x00000000000059e8       0xa0 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiFirmwareVolumeInfoPpiGuid
+                0x0000000000005a88       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiReset2PpiGuid
+                0x0000000000005a98       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiResetPpiGuid
+                0x0000000000005aa8       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiStatusCodePpiGuid
+                0x0000000000005ab8       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiHobMemoryAllocStackGuid
+                0x0000000000005ac8       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiTemporaryRamSupportPpiGuid
+                0x0000000000005ad8       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiDecompressPpiGuid
+                0x0000000000005ae8       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiFirmwareVolumeInfo2PpiGuid
+                0x0000000000005af8       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiLoadFilePpiGuid
+                0x0000000000005b08       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mNotifyList
+                0x0000000000005b18       0x18 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mNotifyOnFvInfoList
+                0x0000000000005b30       0x30 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mPeiFfs3FwVol
+                0x0000000000005b60       0x58 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mPeiFfs3FvPpiList
+                0x0000000000005bb8       0x18 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiFirmwareFileSystem3Guid
+                0x0000000000005bd0       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mPeiFfs2FwVol
+                0x0000000000005be0       0x58 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mPeiFfs2FvPpiList
+                0x0000000000005c38       0x18 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiFirmwareFileSystem2Guid
+                0x0000000000005c50       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gPpiLoadFilePpiList
+                0x0000000000005c60       0x18 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiSecHobDataPpiGuid
+                0x0000000000005c78       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiPeiCoreFvLocationPpiGuid
+                0x0000000000005c88       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gPeiAprioriFileNameGuid
+                0x0000000000005c98       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.mMemoryDiscoveredPpi
+                0x0000000000005ca8       0x18 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiTemporaryRamDonePpiGuid
+                0x0000000000005cc0       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gEfiDxeIplPpiGuid
+                0x0000000000005cd0       0x10 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .data.gPs      0x0000000000005ce0       0xf8 /tmp/ccOED8gC.ltrans0.ltrans.o
+ *(.bss .bss.*)
+ .bss.gPeiServices
+                0x0000000000005dd8        0x8 /tmp/ccOED8gC.ltrans0.ltrans.o
+
+.dynbss         0x0000000000005de0        0x0
+ .dynbss        0x0000000000005de0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x0000000000005de0      0x798
+ *(.rela .rela.*)
+ .rela.got      0x0000000000005de0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.plt      0x0000000000005de0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.bss      0x0000000000005de0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.rel.ro
+                0x0000000000005de0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.ifunc    0x0000000000005de0        0x0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mPeiLoadImagePpi
+                0x0000000000005de0       0x18 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.gPeiDefaultPciCfg2Ppi
+                0x0000000000005df8       0x48 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.gPeiDefaultCpuIoPpi
+                0x0000000000005e40      0x1e0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mNotifyList
+                0x0000000000006020       0x30 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mNotifyOnFvInfoList
+                0x0000000000006050       0x60 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mPeiFfs3FwVol
+                0x00000000000060b0       0xc0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mPeiFfs3FvPpiList
+                0x0000000000006170       0x30 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mPeiFfs2FwVol
+                0x00000000000061a0       0xc0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mPeiFfs2FvPpiList
+                0x0000000000006260       0x30 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.gPpiLoadFilePpiList
+                0x0000000000006290       0x30 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mMemoryDiscoveredPpi
+                0x00000000000062c0       0x18 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.gPs
+                0x00000000000062d8      0x2a0 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000006578       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000006578       0x24 /home/ekutech/edk2-exynos/Common/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdeModulePkg/Core/Pei/PeiMain/DEBUG/PeiCore.dll elf64-littleaarch64)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x2ce07
+ .debug_info    0x0000000000000000     0x7369 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .debug_info    0x0000000000007369      0x29e /tmp/ccQBO5zv.debug.temp.o
+                0x0000000000007369                PeiCoreEntryPoint.c.3ce8bb95
+ .debug_info    0x0000000000007607     0x156d /tmp/ccBjUgI6.debug.temp.o
+                0x0000000000007607                AutoGen.c.5025d1f2
+ .debug_info    0x0000000000008b74     0x2939 /tmp/ccIufwjF.debug.temp.o
+                0x0000000000008b74                PeiMain.c.6fd6e561
+ .debug_info    0x000000000000b4ad     0x25c2 /tmp/ccdZaKSi.debug.temp.o
+                0x000000000000b4ad                MemoryServices.c.3b3236ae
+ .debug_info    0x000000000000da6f     0x3152 /tmp/cc2goEk9.debug.temp.o
+                0x000000000000da6f                Image.c.992407e8
+ .debug_info    0x0000000000010bc1     0x21ec /tmp/ccg4BAIj.debug.temp.o
+                0x0000000000010bc1                Hob.c.2931d2dd
+ .debug_info    0x0000000000012dad     0x3597 /tmp/ccc54Neh.debug.temp.o
+                0x0000000000012dad                FwVol.c.300bd3de
+ .debug_info    0x0000000000016344     0x2e68 /tmp/ccZseJ78.debug.temp.o
+                0x0000000000016344                Dispatcher.c.24cefef9
+ .debug_info    0x00000000000191ac     0x117d /tmp/ccb8Lv5g.debug.temp.o
+                0x00000000000191ac                Dependency.c.1d46266f
+ .debug_info    0x000000000001a329     0x207f /tmp/ccmPYPmx.debug.temp.o
+                0x000000000001a329                BootMode.c.8e922888
+ .debug_info    0x000000000001c3a8     0x14a3 /tmp/ccKjRkss.debug.temp.o
+                0x000000000001c3a8                CpuIo.c.fe5bcff5
+ .debug_info    0x000000000001d84b     0x10c8 /tmp/ccCItqUc.debug.temp.o
+                0x000000000001d84b                PciCfg2.c.fc67fe15
+ .debug_info    0x000000000001e913     0x10b1 /tmp/ccHIbDJf.debug.temp.o
+                0x000000000001e913                StatusCode.c.58c56c61
+ .debug_info    0x000000000001f9c4     0x2101 /tmp/ccZH6pbE.debug.temp.o
+                0x000000000001f9c4                Security.c.5a341634
+ .debug_info    0x0000000000021ac5     0x1145 /tmp/ccB9dXEd.debug.temp.o
+                0x0000000000021ac5                Reset.c.c7ec90ec
+ .debug_info    0x0000000000022c0a     0x2740 /tmp/ccyOl2Dr.debug.temp.o
+                0x0000000000022c0a                Ppi.c.cee8cddd
+ .debug_info    0x000000000002534a      0x720 /tmp/ccQiGfA5.debug.temp.o
+                0x000000000002534a                MemoryAllocationLib.c.91c41d7c
+ .debug_info    0x0000000000025a6a      0x426 /tmp/cc6NTIg0.debug.temp.o
+                0x0000000000025a6a                CheckSum.c.695e6fb1
+ .debug_info    0x0000000000025e90      0x1a1 /tmp/ccfiiqkw.debug.temp.o
+                0x0000000000025e90                SwitchStack.c.b8c92f0b
+ .debug_info    0x0000000000026031      0x105 /tmp/cc5yCQ4L.debug.temp.o
+                0x0000000000026031                RShiftU64.c.5efcabc8
+ .debug_info    0x0000000000026136      0x105 /tmp/cchC9saZ.debug.temp.o
+                0x0000000000026136                LShiftU64.c.556255f1
+ .debug_info    0x000000000002623b       0xa3 /tmp/ccycouaE.debug.temp.o
+                0x000000000002623b                CpuDeadLoop.c.b122742d
+ .debug_info    0x00000000000262de      0x13c /tmp/ccY0LyP9.debug.temp.o
+                0x00000000000262de                InternalSwitchStack.c.e34e8e20
+ .debug_info    0x000000000002641a      0x28d /tmp/cc8LxLKE.debug.temp.o
+                0x000000000002641a                Unaligned.c.249e1f5e
+ .debug_info    0x00000000000266a7      0x2db /tmp/ccKPIrWU.debug.temp.o
+                0x00000000000266a7                Math64.c.a1e62e0a
+ .debug_info    0x0000000000026982      0xe82 /tmp/ccNkBRVm.debug.temp.o
+                0x0000000000026982                HobLib.c.1aaa5b70
+ .debug_info    0x0000000000027804     0x18a5 /tmp/ccQZy1o7.debug.temp.o
+                0x0000000000027804                PeiServicesLib.c.447e5179
+ .debug_info    0x00000000000290a9      0x109 /tmp/ccHOfYgQ.debug.temp.o
+                0x00000000000290a9                ZeroMemWrapper.c.bbc15fdb
+ .debug_info    0x00000000000291b2      0x17f /tmp/ccFMdxIV.debug.temp.o
+                0x00000000000291b2                SetMemWrapper.c.5e68010e
+ .debug_info    0x0000000000029331      0x11e /tmp/ccWSiJHt.debug.temp.o
+                0x0000000000029331                CopyMemWrapper.c.ba841fda
+ .debug_info    0x000000000002944f      0x330 /tmp/ccUPH2Gs.debug.temp.o
+                0x000000000002944f                MemLibGeneric.c.8b6c0c32
+ .debug_info    0x000000000002977f      0x278 /tmp/ccK0Su3g.debug.temp.o
+                0x000000000002977f                MemLibGuid.c.b8672331
+ .debug_info    0x00000000000299f7      0x159 /tmp/ccklpQA3.debug.temp.o
+                0x00000000000299f7                CopyMem.c.c06b193b
+ .debug_info    0x0000000000029b50      0x13b /tmp/ccNQ6n1w.debug.temp.o
+                0x0000000000029b50                SetMem.c.19984899
+ .debug_info    0x0000000000029c8b     0x107d /tmp/ccq8l8sH.debug.temp.o
+                0x0000000000029c8b                PeiServicesTablePointer.c.37d457c2
+ .debug_info    0x000000000002ad08      0x98d /tmp/ccglOwpE.debug.temp.o
+                0x000000000002ad08                PeCoffGetEntryPoint.c.300879d6
+ .debug_info    0x000000000002b695      0x345 /tmp/ccIYZKxB.debug.temp.o
+                0x000000000002b695                PerformanceLib.c.248c1f90
+ .debug_info    0x000000000002b9da     0x12e2 /tmp/ccJpRbNG.debug.temp.o
+                0x000000000002b9da                BasePeCoff.c.acafa663
+ .debug_info    0x000000000002ccbc      0x14b /tmp/ccEHX1K2.debug.temp.o
+                0x000000000002ccbc                PeCoffLoaderEx.c.fc7e59a0
+
+.debug_abbrev   0x0000000000000000     0x43a0
+ .debug_abbrev  0x0000000000000000      0x23a /tmp/ccOED8gC.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000023a      0x143 /tmp/ccQBO5zv.debug.temp.o
+ .debug_abbrev  0x000000000000037d      0x253 /tmp/ccBjUgI6.debug.temp.o
+ .debug_abbrev  0x00000000000005d0      0x320 /tmp/ccIufwjF.debug.temp.o
+ .debug_abbrev  0x00000000000008f0      0x333 /tmp/ccdZaKSi.debug.temp.o
+ .debug_abbrev  0x0000000000000c23      0x343 /tmp/cc2goEk9.debug.temp.o
+ .debug_abbrev  0x0000000000000f66      0x2c4 /tmp/ccg4BAIj.debug.temp.o
+ .debug_abbrev  0x000000000000122a      0x355 /tmp/ccc54Neh.debug.temp.o
+ .debug_abbrev  0x000000000000157f      0x35e /tmp/ccZseJ78.debug.temp.o
+ .debug_abbrev  0x00000000000018dd      0x1e3 /tmp/ccb8Lv5g.debug.temp.o
+ .debug_abbrev  0x0000000000001ac0      0x24e /tmp/ccmPYPmx.debug.temp.o
+ .debug_abbrev  0x0000000000001d0e      0x1ce /tmp/ccKjRkss.debug.temp.o
+ .debug_abbrev  0x0000000000001edc      0x192 /tmp/ccCItqUc.debug.temp.o
+ .debug_abbrev  0x000000000000206e      0x197 /tmp/ccHIbDJf.debug.temp.o
+ .debug_abbrev  0x0000000000002205      0x297 /tmp/ccZH6pbE.debug.temp.o
+ .debug_abbrev  0x000000000000249c      0x1c3 /tmp/ccB9dXEd.debug.temp.o
+ .debug_abbrev  0x000000000000265f      0x313 /tmp/ccyOl2Dr.debug.temp.o
+ .debug_abbrev  0x0000000000002972      0x1aa /tmp/ccQiGfA5.debug.temp.o
+ .debug_abbrev  0x0000000000002b1c      0x14e /tmp/cc6NTIg0.debug.temp.o
+ .debug_abbrev  0x0000000000002c6a      0x103 /tmp/ccfiiqkw.debug.temp.o
+ .debug_abbrev  0x0000000000002d6d       0xb8 /tmp/cc5yCQ4L.debug.temp.o
+ .debug_abbrev  0x0000000000002e25       0xb8 /tmp/cchC9saZ.debug.temp.o
+ .debug_abbrev  0x0000000000002edd       0x76 /tmp/ccycouaE.debug.temp.o
+ .debug_abbrev  0x0000000000002f53       0xad /tmp/ccY0LyP9.debug.temp.o
+ .debug_abbrev  0x0000000000003000       0xd5 /tmp/cc8LxLKE.debug.temp.o
+ .debug_abbrev  0x00000000000030d5       0xd6 /tmp/ccKPIrWU.debug.temp.o
+ .debug_abbrev  0x00000000000031ab      0x252 /tmp/ccNkBRVm.debug.temp.o
+ .debug_abbrev  0x00000000000033fd      0x26f /tmp/ccQZy1o7.debug.temp.o
+ .debug_abbrev  0x000000000000366c       0xbe /tmp/ccHOfYgQ.debug.temp.o
+ .debug_abbrev  0x000000000000372a       0xd4 /tmp/ccFMdxIV.debug.temp.o
+ .debug_abbrev  0x00000000000037fe       0xc4 /tmp/ccWSiJHt.debug.temp.o
+ .debug_abbrev  0x00000000000038c2       0xf6 /tmp/ccUPH2Gs.debug.temp.o
+ .debug_abbrev  0x00000000000039b8      0x10d /tmp/ccK0Su3g.debug.temp.o
+ .debug_abbrev  0x0000000000003ac5       0x95 /tmp/ccklpQA3.debug.temp.o
+ .debug_abbrev  0x0000000000003b5a       0xa7 /tmp/ccNQ6n1w.debug.temp.o
+ .debug_abbrev  0x0000000000003c01      0x1cd /tmp/ccq8l8sH.debug.temp.o
+ .debug_abbrev  0x0000000000003dce      0x1f4 /tmp/ccglOwpE.debug.temp.o
+ .debug_abbrev  0x0000000000003fc2      0x119 /tmp/ccIYZKxB.debug.temp.o
+ .debug_abbrev  0x00000000000040db      0x236 /tmp/ccJpRbNG.debug.temp.o
+ .debug_abbrev  0x0000000000004311       0x8f /tmp/ccEHX1K2.debug.temp.o
+
+.debug_loclists
+                0x0000000000000000     0x84b6
+ .debug_loclists
+                0x0000000000000000     0x84b6 /tmp/ccOED8gC.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x840
+ .debug_aranges
+                0x0000000000000000      0x840 /tmp/ccOED8gC.ltrans0.ltrans.o
+
+.debug_rnglists
+                0x0000000000000000      0x96d
+ .debug_rnglists
+                0x0000000000000000      0x96d /tmp/ccOED8gC.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x78e9
+ .debug_line    0x0000000000000000     0x6538 /tmp/ccOED8gC.ltrans0.ltrans.o
+ .debug_line    0x0000000000006538       0x71 /tmp/ccQBO5zv.debug.temp.o
+ .debug_line    0x00000000000065a9       0x93 /tmp/ccBjUgI6.debug.temp.o
+ .debug_line    0x000000000000663c       0xeb /tmp/ccIufwjF.debug.temp.o
+ .debug_line    0x0000000000006727       0xbf /tmp/ccdZaKSi.debug.temp.o
+ .debug_line    0x00000000000067e6       0xe0 /tmp/cc2goEk9.debug.temp.o
+ .debug_line    0x00000000000068c6       0xb0 /tmp/ccg4BAIj.debug.temp.o
+ .debug_line    0x0000000000006976       0xe6 /tmp/ccc54Neh.debug.temp.o
+ .debug_line    0x0000000000006a5c       0xf4 /tmp/ccZseJ78.debug.temp.o
+ .debug_line    0x0000000000006b50       0x9d /tmp/ccb8Lv5g.debug.temp.o
+ .debug_line    0x0000000000006bed       0xab /tmp/ccmPYPmx.debug.temp.o
+ .debug_line    0x0000000000006c98       0x8e /tmp/ccKjRkss.debug.temp.o
+ .debug_line    0x0000000000006d26       0x8e /tmp/ccCItqUc.debug.temp.o
+ .debug_line    0x0000000000006db4       0x9c /tmp/ccHIbDJf.debug.temp.o
+ .debug_line    0x0000000000006e50       0xb9 /tmp/ccZH6pbE.debug.temp.o
+ .debug_line    0x0000000000006f09       0xa6 /tmp/ccB9dXEd.debug.temp.o
+ .debug_line    0x0000000000006faf       0xd7 /tmp/ccyOl2Dr.debug.temp.o
+ .debug_line    0x0000000000007086       0x6d /tmp/ccQiGfA5.debug.temp.o
+ .debug_line    0x00000000000070f3       0x4c /tmp/cc6NTIg0.debug.temp.o
+ .debug_line    0x000000000000713f       0x64 /tmp/ccfiiqkw.debug.temp.o
+ .debug_line    0x00000000000071a3       0x51 /tmp/cc5yCQ4L.debug.temp.o
+ .debug_line    0x00000000000071f4       0x51 /tmp/cchC9saZ.debug.temp.o
+ .debug_line    0x0000000000007245       0x4c /tmp/ccycouaE.debug.temp.o
+ .debug_line    0x0000000000007291       0x51 /tmp/ccY0LyP9.debug.temp.o
+ .debug_line    0x00000000000072e2       0x51 /tmp/cc8LxLKE.debug.temp.o
+ .debug_line    0x0000000000007333       0x4c /tmp/ccKPIrWU.debug.temp.o
+ .debug_line    0x000000000000737f       0x89 /tmp/ccNkBRVm.debug.temp.o
+ .debug_line    0x0000000000007408       0xb0 /tmp/ccQZy1o7.debug.temp.o
+ .debug_line    0x00000000000074b8       0x51 /tmp/ccHOfYgQ.debug.temp.o
+ .debug_line    0x0000000000007509       0x56 /tmp/ccFMdxIV.debug.temp.o
+ .debug_line    0x000000000000755f       0x51 /tmp/ccWSiJHt.debug.temp.o
+ .debug_line    0x00000000000075b0       0x48 /tmp/ccUPH2Gs.debug.temp.o
+ .debug_line    0x00000000000075f8       0x5a /tmp/ccK0Su3g.debug.temp.o
+ .debug_line    0x0000000000007652       0x43 /tmp/ccklpQA3.debug.temp.o
+ .debug_line    0x0000000000007695       0x4c /tmp/ccNQ6n1w.debug.temp.o
+ .debug_line    0x00000000000076e1       0x8e /tmp/ccq8l8sH.debug.temp.o
+ .debug_line    0x000000000000776f       0x5e /tmp/ccglOwpE.debug.temp.o
+ .debug_line    0x00000000000077cd       0x5e /tmp/ccIYZKxB.debug.temp.o
+ .debug_line    0x000000000000782b       0x72 /tmp/ccJpRbNG.debug.temp.o
+ .debug_line    0x000000000000789d       0x4c /tmp/ccEHX1K2.debug.temp.o
+
+.debug_str      0x0000000000000000     0x54b9
+ .debug_str     0x0000000000000000     0x54b9 /tmp/ccOED8gC.ltrans0.ltrans.o
+                                        0x1ad (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccQBO5zv.debug.temp.o
+                                        0x365 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccBjUgI6.debug.temp.o
+                                       0x1830 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccIufwjF.debug.temp.o
+                                       0x22ed (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccdZaKSi.debug.temp.o
+                                       0x1ee1 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/cc2goEk9.debug.temp.o
+                                       0x28a1 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccg4BAIj.debug.temp.o
+                                       0x1c64 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccc54Neh.debug.temp.o
+                                       0x288a (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccZseJ78.debug.temp.o
+                                       0x275f (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccb8Lv5g.debug.temp.o
+                                       0x1058 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccmPYPmx.debug.temp.o
+                                       0x1b87 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccKjRkss.debug.temp.o
+                                       0x10f6 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccCItqUc.debug.temp.o
+                                        0xfc0 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccHIbDJf.debug.temp.o
+                                        0xfe2 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccZH6pbE.debug.temp.o
+                                       0x1c2b (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccB9dXEd.debug.temp.o
+                                       0x1074 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccyOl2Dr.debug.temp.o
+                                       0x20da (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccQiGfA5.debug.temp.o
+                                        0x6e4 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/cc6NTIg0.debug.temp.o
+                                        0x328 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccfiiqkw.debug.temp.o
+                                        0x299 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/cc5yCQ4L.debug.temp.o
+                                        0x221 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/cchC9saZ.debug.temp.o
+                                        0x221 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccycouaE.debug.temp.o
+                                        0x1e1 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccY0LyP9.debug.temp.o
+                                        0x26a (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/cc8LxLKE.debug.temp.o
+                                        0x2d8 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccKPIrWU.debug.temp.o
+                                        0x36e (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccNkBRVm.debug.temp.o
+                                        0xb75 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccQZy1o7.debug.temp.o
+                                       0x15b8 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccHOfYgQ.debug.temp.o
+                                        0x21c (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccFMdxIV.debug.temp.o
+                                        0x23e (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccWSiJHt.debug.temp.o
+                                        0x234 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccUPH2Gs.debug.temp.o
+                                        0x320 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccK0Su3g.debug.temp.o
+                                        0x30b (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccklpQA3.debug.temp.o
+                                        0x259 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccNQ6n1w.debug.temp.o
+                                        0x230 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccq8l8sH.debug.temp.o
+                                       0x1018 (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccglOwpE.debug.temp.o
+                                        0x7de (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccIYZKxB.debug.temp.o
+                                        0x3bd (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccJpRbNG.debug.temp.o
+                                        0xded (gevşetmeden önceki boyut)
+ .debug_str     0x00000000000054b9        0x0 /tmp/ccEHX1K2.debug.temp.o
+                                        0x260 (gevşetmeden önceki boyut)
+
+.debug_line_str
+                0x0000000000000000     0x1eed
+ .debug_line_str
+                0x0000000000000000     0x1eed /tmp/ccOED8gC.ltrans0.ltrans.o
+                                        0x9fc (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccQBO5zv.debug.temp.o
+                                        0x2a5 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccBjUgI6.debug.temp.o
+                                        0x340 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccIufwjF.debug.temp.o
+                                        0x4a3 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccdZaKSi.debug.temp.o
+                                        0x3ab (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/cc2goEk9.debug.temp.o
+                                        0x4a4 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccg4BAIj.debug.temp.o
+                                        0x36b (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccc54Neh.debug.temp.o
+                                        0x47e (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccZseJ78.debug.temp.o
+                                        0x508 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccb8Lv5g.debug.temp.o
+                                        0x32e (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccmPYPmx.debug.temp.o
+                                        0x36f (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccKjRkss.debug.temp.o
+                                        0x2ea (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccCItqUc.debug.temp.o
+                                        0x2f2 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccHIbDJf.debug.temp.o
+                                        0x382 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccZH6pbE.debug.temp.o
+                                        0x3ef (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccB9dXEd.debug.temp.o
+                                        0x388 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccyOl2Dr.debug.temp.o
+                                        0x45c (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccQiGfA5.debug.temp.o
+                                        0x28e (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/cc6NTIg0.debug.temp.o
+                                        0x185 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccfiiqkw.debug.temp.o
+                                        0x1ef (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/cc5yCQ4L.debug.temp.o
+                                        0x19a (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/cchC9saZ.debug.temp.o
+                                        0x19a (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccycouaE.debug.temp.o
+                                        0x18a (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccY0LyP9.debug.temp.o
+                                        0x19c (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/cc8LxLKE.debug.temp.o
+                                        0x199 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccKPIrWU.debug.temp.o
+                                        0x180 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccNkBRVm.debug.temp.o
+                                        0x314 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccQZy1o7.debug.temp.o
+                                        0x3fd (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccHOfYgQ.debug.temp.o
+                                        0x1bb (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccFMdxIV.debug.temp.o
+                                        0x1c9 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccWSiJHt.debug.temp.o
+                                        0x1bb (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccUPH2Gs.debug.temp.o
+                                        0x171 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccK0Su3g.debug.temp.o
+                                        0x1e7 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccklpQA3.debug.temp.o
+                                        0x153 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccNQ6n1w.debug.temp.o
+                                        0x198 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccq8l8sH.debug.temp.o
+                                        0x353 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccglOwpE.debug.temp.o
+                                        0x273 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccIYZKxB.debug.temp.o
+                                        0x297 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccJpRbNG.debug.temp.o
+                                        0x279 (gevşetmeden önceki boyut)
+ .debug_line_str
+                0x0000000000001eed        0x0 /tmp/ccEHX1K2.debug.temp.o
+                                        0x19d (gevşetmeden önceki boyut)
+
+.debug_frame    0x0000000000000000     0x1480
+ .debug_frame   0x0000000000000000     0x1480 /tmp/ccOED8gC.ltrans0.ltrans.o

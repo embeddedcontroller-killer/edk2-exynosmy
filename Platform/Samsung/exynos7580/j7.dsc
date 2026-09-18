@@ -1,0 +1,1 @@
+/home/ekutech/edk2-exynos/Platform/Samsung/exynos7580/exynos7580.dsc

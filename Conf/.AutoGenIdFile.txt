@@ -1,0 +1,3 @@
+Arch=AARCH64
+BuildDir=/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5
+PlatformGuid=5a8a68b4-c361-4606-bc7e-2cf864380f2d

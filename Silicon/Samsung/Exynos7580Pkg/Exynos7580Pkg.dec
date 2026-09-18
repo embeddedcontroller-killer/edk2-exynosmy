@@ -1,0 +1,27 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = Exynos7580Pkg
+  PACKAGE_GUID                   = c4e35790-2646-4c3e-8f2c-e3a1f8bb2d40
+  PACKAGE_VERSION                = 0.1
+
+[Includes]
+  Include
+
+[LibraryClasses]
+  Exynos7580SerialPortLib|Include/Library/Exynos7580SerialPortLib.h
+
+[PcdsFixedAtBuild]
+  # --- UART Konfigürasyonu ---
+  gArmTokenSpaceGuid.gExynos7580UartBase|0x13800000|UINT32|0x00000001
+  
+  # --- Clock (CMU) Konfigürasyonu ---
+  gArmTokenSpaceGuid.gExynos7580CmuPeriBase|0x139F0000|UINT32|0x00000002
+  gArmTokenSpaceGuid.gExynos7580UartPclkOffset|0x0904|UINT32|0x00000003
+  gArmTokenSpaceGuid.gExynos7580UartSclkOffset|0x0A04|UINT32|0x00000004
+
+  # --- GIC Konfigürasyonu ---
+  gArmTokenSpaceGuid.gExynos7580GicDistBase|0x10C01000|UINT32|0x00000005
+  gArmTokenSpaceGuid.gExynos7580GicCpuBase|0x10C02000|UINT32|0x00000006
+
+  # --- Depolama (MMC) Konfigürasyonu ---
+  gArmTokenSpaceGuid.gExynos7580Mmc0Base|0x13540000|UINT32|0x00000007

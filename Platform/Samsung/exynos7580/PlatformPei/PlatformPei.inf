@@ -1,0 +1,22 @@
+[Defines]
+  INF_VERSION                    = 0x00010005
+  BASE_NAME                      = PlatformPei
+  FILE_GUID                      = 5e276f0d-4cd2-46fe-bf4d-916ae8d8f770
+  MODULE_TYPE                    = PEIM
+
+[Sources]
+  PlatformPei.c
+
+[Packages]
+  MdePkg/MdePkg.dec
+  MdeModulePkg/MdeModulePkg.dec
+  Silicon/Samsung/Exynos7580Pkg/Exynos7580Pkg.dec
+
+[LibraryClasses]
+  # Yazdırdığımız mesajlar için SerialPortLib'i kullanıyoruz
+  SerialPortLib
+  # Bellek işlemleri için
+  BaseMemoryLib
+
+[Depex]
+  TRUE

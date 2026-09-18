@@ -1,0 +1,8 @@
+-I/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Library/BaseLib/AArch64
+-I/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Library/BaseLib/Arm
+-I/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Library/BaseLib
+-I/home/ekutech/edk2-exynos/Build/Exynos7580_J7/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/DEBUG
+-I/home/ekutech/edk2-exynos/Common/edk2/MdePkg
+-I/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Include
+-I/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Test/UnitTest/Include
+-I/home/ekutech/edk2-exynos/Common/edk2/MdePkg/Include/AArch64
